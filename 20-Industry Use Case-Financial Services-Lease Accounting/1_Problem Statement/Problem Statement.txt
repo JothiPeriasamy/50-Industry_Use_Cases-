@@ -1,0 +1,1 @@
+Predict the Least Amount for the assets to be acquired for a certain period of time 

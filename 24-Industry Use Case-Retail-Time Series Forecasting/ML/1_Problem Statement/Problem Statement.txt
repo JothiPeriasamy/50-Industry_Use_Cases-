@@ -1,0 +1,2 @@
+The goal of this implementation is to create a model that will be able to recognize from a still or video images of a scene
+identify or verify one or more persons and available collateral information such as gender using Machine Learning models

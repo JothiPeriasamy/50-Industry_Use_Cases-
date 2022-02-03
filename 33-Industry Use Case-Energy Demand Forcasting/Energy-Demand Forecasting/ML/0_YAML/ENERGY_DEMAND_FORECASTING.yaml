@@ -1,0 +1,10 @@
+
+TRAINING_DATA_PATH: C:/AI/Energy Demand Forecasting/ML/TRAINING DATA/Training Data.xlsx
+
+TEST_DATA_PATH: C:/AI/Energy Demand Forecasting/ML/TEST DATA/Test Data.xlsx
+
+MODEL_OUTCOME: C:/AI/Energy Demand Forecasting/ML/MODEL OUTCOME/Model_Outcome_Forecasted_Energy_Demand.xlsx
+
+MODEL_OUTCOME_ALL_DIMENSIONS: C:/AI/Energy Demand Forecasting/ML/MODEL OUTCOME/Model_Outcome_Forecasted_Energy_Demand_All.xlsx
+
+MODEL_OUTCOME_6MONTHS_ROLLLING_FORECAST: C:/AI/Energy Demand Forecasting/ML/MODEL OUTCOME/6Months_Rolling_Forecast.xlsx

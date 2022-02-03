@@ -1,0 +1,4 @@
+Health Care Fraud Detection Problem includes modeling past transactions and data with the knowledge of the Patients that turned out to be fraud. This model is then used to identify whether a new Patient is fraudulent or not.
+Our aim here is to detect 100% of the fraudulent Patients while minimizing the incorrect fraud classifications.
+Calculated probabilities, weightage, and confidence level for different features.
+Visualization for graphic representation of output data.

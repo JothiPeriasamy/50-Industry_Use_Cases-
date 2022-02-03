@@ -1,0 +1,78 @@
+
+/* buttons */
+.stButton>button {
+   background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+    width: 300px;
+    height: 58px;
+}
+
+.css-hi6a2p{
+    padding-bottom: 10px;
+}
+/* sidebar dropdown padding */
+/* .css-z8kais { */
+.css-1l02zno{
+    padding-bottom: 100px;
+}
+.row-widget .stSelectbox{
+    padding-bottom: 100px;
+}
+/* copy selector instead of xpath */
+#root > div:nth-child(1) > div > div > div > div > section.css-1lcbmhc.e1fqkh3o0 > div.css-1l02zno.e1fqkh3o1 > div.block-container.css-1dnb06j.eknhn3m2 > div:nth-child(1) > div:nth-child(3)
+{
+    padding-bottom:50px;
+}
+#root > div:nth-child(1) > div > div > div > div > section.css-1lcbmhc.e1fqkh3o0 > div.css-1l02zno.e1fqkh3o1 > div.block-container.css-1dnb06j.eknhn3m2 > div:nth-child(1) > div:nth-child(2)
+{
+    padding-bottom:50px;
+}
+
+#root > div:nth-child(1) > div > div > div > div > section.css-1lcbmhc.e1fqkh3o0 > div.css-1l02zno.e1fqkh3o1 > div.block-container.css-1dnb06j.eknhn3m2 > div:nth-child(1) > div:nth-child(1)
+
+{
+    padding-bottom:50px;
+}
+/* title */
+.css-h2raq8>h2{
+    width:110%;
+    text-align: center;
+}
+/* sidebar width reduce */
+.css-1l02zno{
+    color: black;
+    background-color: blue;
+    width: 17rem;
+}
+/* Main page */
+.reportview-container {
+        background: solid white;
+    }
+img {
+  position: absolute;
+  left: -200px;
+  top: -100px;
+  width: 200px;
+  height: 150px;
+    padding-top: 10px;
+}
+.st-dt {
+    background-color: grey;
+}
+.st-ds {
+    color: white;
+}
+
+.css-7po9eu {
+    flex: 1 1 25%;
+    width: 2px;
+    padding-left: 0.3rem;
+}

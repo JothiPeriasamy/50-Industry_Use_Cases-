@@ -1,0 +1,34 @@
+Company_Code,Company_Code_Country,Posting_Date,Document_Date,Currency,Trading_Partner,Trading_Partner_Country,Transaction_Type,Data_Source,Data_Category,Account,Transaction_Amount,Inter_Company_Transaction
+2,USA,1012018,2,Local Currency,2,2,2,SAP,2,100999,"1,00,000.00",1
+2,Canada ,1012018,2,Local Currency,2,2,2,Oracle,2,200999,"1,00,000.00",1
+1,USA,2012018,1,Local Currency,1,1,1,SAP,1,100999,"2,00,000.00",0
+1,Canada ,2012018,1,Local Currency,1,1,1,Oracle,1,200999,"2,00,000.00",0
+3,USA,2152018,2,Local Currency,3,3,3,SAP,3,100999,"3,00,000.00",2
+3,Canada ,2012018,2,Local Currency,3,3,3,Oracle,3,220999,"2,00,000.00",2
+2,USA,1012018,2,Local Currency,2,2,2,SAP,2,100999,"1,00,000.00",1
+1,USA,2012018,1,Local Currency,1,1,1,SAP,1,100999,"2,00,000.00",0
+1,India,2012018,1,Local Currency,1,1,1,File,1,300999,"2,00,000.00",0
+2,USA,2152018,2,Local Currency,2,2,2,SAP,2,100999,"3,00,000.00",1
+2,India,2282018,2,Local Currency,2,2,22,File,2,300999,"3,00,000.00",1
+1,USA,2012018,1,Local Currency,1,1,1,SAP,1,100999,"2,00,000.00",0
+1,China,2012018,1,Local Currency,1,1,1,Micrsoft Access,1,400999,"2,00,000.00",0
+2,USA,2152018,2,Local Currency,2,2,2,SAP,2,100999,"3,00,000.00",1
+2,China,2282018,2,Local Currency,2,2,2,Micrsoft Access,2,400999,"3,00,000.00",1
+1,Canada ,2012018,1,Local Currency,1,1,1,Oracle,1,220999,"2,00,000.00",0
+1,Canada ,2012018,1,Local Currency,1,1,1,Oracle,1,220999,"2,00,000.00",0
+1,Canada ,2012018,1,Local Currency,1,1,1,Oracle,1,220999,"1,00,000.00",0
+1,Canada ,2012018,1,Local Currency,1,1,1,Oracle,1,220999,"1,00,000.00",0
+2,Canada ,2012018,2,Local Currency,2,2,2,Oracle,2,220999,"2,00,000.00",1
+2,Canada ,2012018,2,Local Currency,2,2,2,Oracle,2,220999,"2,00,000.00",1
+5,USA,1012018,5,Local Currency,5,5,5,SAP,5,100999,"1,00,000.00",4
+5,USA,1012018,5,Local Currency,5,5,5,SAP,5,100999,"1,00,000.00",4
+5,Canada ,2282018,5,Local Currency,5,5,5,Oracle,5,200999,"3,00,000.00",4
+5,USA,1012018,5,Local Currency,5,5,5,SAP,5,1110999,"1,00,000.00",4
+5,USA,1012018,5,Local Currency,5,5,5,SAP,5,1110999,"10,000.00",4
+4,USA,1012018,4,Local Currency,4,4,4,SAP,4,1110999,"2,00,000.00",3
+4,USA,1012018,4,USD,4,4,4,SAP,4,1110999,"2,00,000.00",3
+4,USA,1012018,4,USD,4,4,4,SAP,4,1110999,"4,00,000.00",3
+4,USA,1012018,4,USD,4,4,4,SAP,4,1110999,"3,00,000.00",3
+4,USA,1012018,4,USD,4,4,4,SAP,4,1110999,"1,00,000.00",3
+4,USA,1012018,4,USD,4,4,4,SAP,4,1110999,"10,000.00",3
+4,USA,1012018,4,USD,4,4,4,SAP,4,1110999,"2,00,000.00",3

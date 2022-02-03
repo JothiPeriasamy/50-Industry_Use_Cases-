@@ -1,0 +1,1 @@
+To recognize from a still or video images of a scene and identify one or more persons and available collateral information such as gender using Machine Learning models using Machine Learning Techniques

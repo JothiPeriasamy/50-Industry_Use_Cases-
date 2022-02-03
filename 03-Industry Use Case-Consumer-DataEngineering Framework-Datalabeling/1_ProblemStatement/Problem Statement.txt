@@ -1,0 +1,5 @@
+Problem Statement:
+
+	User can review any product at any data format(text,audio,video,image) across any platform/social media. There is no framework/tool to analyze different formats of data is availble in the market now.
+So,We are trying to create a framework, where in which structured and unstructured data are combining together and create some insights out of it. Business entities can utilize this tool for customer segmentation/profiling.
+Customer profiling is one of the example, still we are working on to figure out similar usecases.

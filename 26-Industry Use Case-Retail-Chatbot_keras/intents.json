@@ -1,0 +1,87 @@
+{"intents": [
+    {"tag": "greeting",
+     "patterns": ["Hi", "Hey", "Is anyone there?", "Hello", "Hay"],
+     "responses": ["Hello! welcome to DeepSphere. How can i help you?"]
+    },
+    {"tag": "goodbye",
+     "patterns": ["Bye", "See you later", "Goodbye"],
+     "responses": ["See you later", "Have a nice day", "Bye! Come back again"]
+    },
+    {"tag": "thanks",
+     "patterns": ["Thanks", "Thank you", "That's helpful", "Thanks for the help"],
+     "responses": ["Happy to help!", "Any time!", "My pleasure", "You're most welcome!"]
+    },
+    {"tag": "ask",
+        "patterns": ["how you doing?","how are you?"],
+        "responses": ["i am doing good, Thanks For Asking! How can I help you?"]
+    },
+    {"tag": "noanswer",
+        "patterns": [ ],
+        "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"]
+    },
+    {"tag": "name",
+    "patterns": ["what is your name", "what should I call you", "whats your name?"],
+    "responses": ["You can call me Joana.", "I'm Joana!", "Just call me as Joana"]
+    },
+    {"tag": "help",
+    "patterns": ["Could you help me?", "give me a hand please", "Can you help?", "What can you do for me?", "I need a support", "I need a help", "support me please"],
+    "responses": ["Tell me how can assist you", "Tell me your problem to assist you", "Yes Sure, How can I support you"]
+    },
+    {"tag": "createaccount",
+    "patterns": ["I need to create a new account", "how to open a new account", "I want to create an account", "can you create an account for me", "how to open a new account"],
+    "responses": ["You can just easily create a new account from our web site", "Just go to our web site and follow the guidelines to create a new account"]
+    },
+    {"tag": "complaint",
+    "patterns": ["have a complaint", "I want to raise a complaint", "there is a complaint about a service"],
+    "responses": ["Please provide us your complaint in order to assist you", "Please mention your complaint, we will reach you and sorry for any inconvenience caused"]
+    },
+    {"tag": "Textbook",
+        "patterns": ["Do I need to buy textbooks?","textbooks?"],
+        "responses": ["All the reading materials you are required to access are included with your course."]
+    },
+    {"tag": "askorder",
+        "patterns": ["Do I need to take the course in a certain order?","certain order"],
+        "responses": ["We highly recommend completing the courses in the order presented because the content in each course builds on information from earlier lessons."]
+    },
+    {"tag": "career",
+        "patterns": ["Why should i start my career in data science?"],
+        "responses": ["Data Science course provides hands-on exposure to key technologies including R, Python, Machine Learning, Tableau, Hadoop, and Spark via live interaction with practitioners, practical labs, and industry projects."]
+    },
+    {"tag": "demo",
+        "patterns": ["Can I see a demo course before enrollment?"],
+        "responses": ["you can go through the sample course and it would give you a clear insight into how are the courses available."]
+    },
+    {"tag": "benefits",
+        "patterns": ["What are the benefits to enroll in a course?"],
+        "responses": ["You will get access to comprehensive courses, quizzes and assignment. This will allow you to evaluate your learning and measure your progress."]
+    },
+    {"tag": "time",
+        "patterns": ["Do the chapters meet at a specific time?"],
+        "responses": ["No, you can complete the coursework at a time that is most convenient for you!"]
+    },
+    {"tag": "registration",
+        "patterns": ["How do I register for the online courses?"],
+        "responses": ["Each course description includes a registration link."]
+    },
+    {"tag": "access",
+        "patterns": ["I have registered for a course. How do I access it?"],
+        "responses": ["You will receive an email containing your login information one business day prior to join the course."]
+    },
+    {"tag": "levels",
+        "patterns": ["what level are offered?"],
+        "responses": ["Our courses are divided into: Professional level, Executive level and student level. Each of these levels is subdivided into different standards."]
+    },
+    {"tag": "pay",
+        "patterns": ["How can I pay for my course?"],
+        "responses": ["You can pay by credit card, by bank transfer, or even by cheque. More details on the accepted methods of payment and deadlines can be found on our course payment page."]
+    },
+    {"tag": "courses",
+        "patterns": ["What courses are you offering?"],
+        "responses": ["We offer several Applied Artificial Intelligence courses. Under the academic program, we offerelective and main courses for schools, colleges, and universities. Also, we provide a training program forprofessionals and executives for career transition and skill advancements."]
+    },
+    {"tag": "prerequisites",
+        "patterns": ["What are the prerequisites to take your courses?"],
+        "responses": ["There are no prerequisites to take our training program. Our program is designed in such a way that itenables participants from the foundational level to intermediate level to advanced level. We haveprograms for various types of learners, from schools to professionals to executives."]
+    }
+]
+}

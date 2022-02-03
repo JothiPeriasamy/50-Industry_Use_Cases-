@@ -1,0 +1,25 @@
+Company,Company,Company_Code_Country,Posting_Date,Document_Date,Currency ,Trading_Partner,Trading_Partner_Country,Trading_Partner_Country,Transaction_Type,Data_Source,Data_Category,Account ,Transaction_Amount,Inter_Company_Transaction
+1,1000,USA,01/01/2018,1,Local Currency,1,Canada ,2000,1,SAP,ACTUAL,100999,1,Y
+1,2000,Canada ,01/01/2018,1,Local Currency,1,USA,1000,1,Oracle,ACTUAL,100999,1,Y
+0,1000,USA,01/01/2018,0,Local Currency,0,India,3000,0,SAP,ACTUAL,100999,0,Y
+0,3000,India,01/01/2018,0,Local Currency,0,USA,1000,0,File,ACTUAL,100999,0,Y
+3,1000,USA,01/01/2018,3,Local Currency,3,China,4000,3,SAP,ACTUAL,100999,3,Y
+3,4000,China,01/01/2018,3,Local Currency,3,USA,1000,3,Micrsoft Access,ACTUAL,100999,3,Y
+0,2000,Canada ,01/01/2018,0,Local Currency,0,India,3000,0,SAP,ACTUAL,100999,0,Y
+0,3000,India,01/01/2018,0,Local Currency,0,Canada ,2000,0,Oracle,ACTUAL,1110999,0,Y
+5,2000,Canada ,01/01/2018,5,Local Currency,5,China,4000,5,File,ACTUAL,1110999,5,Y
+5,4000,China,01/01/2018,5,Local Currency,5,Canada ,2000,5,SAP,ACTUAL,1110999,5,Y
+0,3000,India,01/01/2018,0,USD,0,China,4000,0,File,ACTUAL,1110999,0,Y
+0,4000,China,01/01/2018,0,USD,0,India,3000,0,SAP,ACTUAL,1110999,0,Y
+7,1000,USA,01/01/2018,7,Local Currency,7,Canada ,2000,7,SAP,ACTUAL,100999,7,Y
+7,2000,Canada ,01/01/2018,7,Local Currency,7,USA,1000,7,Oracle,ACTUAL,100999,7,Y
+0,1000,USA,01/01/2018,0,Local Currency,0,India,3000,0,SAP,ACTUAL,100999,0,Y
+0,3000,India,01/01/2018,0,Local Currency,0,USA,1000,0,File,ACTUAL,100999,0,Y
+0,1000,USA,01/01/2018,0,Local Currency,0,China,4000,0,SAP,ACTUAL,100999,0,Y
+0,4000,China,01/01/2018,0,Local Currency,0,USA,1000,0,Micrsoft Access,ACTUAL,100999,0,Y
+10,2000,Canada ,01/01/2018,10,Local Currency,10,India,3000,10,SAP,ACTUAL,100999,10,Y
+10,3000,India,01/01/2018,10,Local Currency,10,Canada ,2000,10,Oracle,ACTUAL,1110999,10,Y
+0,2000,Canada ,01/01/2018,0,Local Currency,0,China,4000,0,File,ACTUAL,1110999,0,Y
+0,4000,China,01/01/2018,0,Local Currency,0,Canada ,2000,0,SAP,ACTUAL,1110999,0,Y
+12,3000,India,01/01/2018,12,USD,12,China,4000,12,File,ACTUAL,1110999,12,Y
+12,4000,China,01/01/2018,12,USD,12,India,3000,12,SAP,ACTUAL,1110999,12,Y

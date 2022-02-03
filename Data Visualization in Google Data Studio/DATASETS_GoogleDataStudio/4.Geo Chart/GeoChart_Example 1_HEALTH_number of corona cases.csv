@@ -1,0 +1,101 @@
+Country,Cases,Deaths,Region
+United States,"30,639,651","556,895",North America
+Brazil,"12,136,615","298,843",South America
+India,"11,734,058","160,477",Asia
+Russia,"4,483,471","96,219",Europe
+France,"4,313,073","92,908",Europe
+United Kingdom,"4,307,304","126,284",Europe
+Italy,"3,419,616","105,879",Europe
+Spain,"3,234,319","73,744",Europe
+Turkey,"3,061,520","30,316",Asia
+Germany,"2,689,205","75,708",Europe
+Colombia,"2,347,224","62,274",South America
+Argentina,"2,261,577","54,823",South America
+Mexico,"2,203,041","199,048",North America
+Poland,"2,120,671","50,340",Europe
+Iran,"1,823,317","62,045",Asia
+Ukraine,"1,579,906","30,773",Europe
+South Africa,"1,538,961","52,251",Africa
+Czech Republic (Czechia),"1,486,510","25,258",Europe
+Peru,"1,481,259","50,474",South America
+Indonesia,"1,476,452","39,983",Asia
+Netherlands,"1,213,366","16,339",Europe
+Chile,"942,958","22,384",South America
+Canada,"942,320","22,735",North America
+Romania,"913,143","22,579",Europe
+Belgium,"842,775","22,763",Europe
+Israel,"829,832","6,131",Asia
+Portugal,"818,212","16,794",Europe
+Iraq,"809,092","14,095",Asia
+Sweden,"758,335","13,315",Europe
+Philippines,"684,311","13,039",Asia
+Pakistan,"637,042","13,965",Asia
+Hungary,"593,710","18,952",Europe
+Switzerland,"588,118","10,254",Europe
+Bangladesh,"580,808","8,763",Asia
+Serbia,"561,372","5,002",Europe
+Jordan,"553,727","6,077",Asia
+Austria,"523,269","9,151",Europe
+Morocco,"492,403","8,775",Africa
+Japan (+Diamond Princess),"458,466","8,874",Asia
+United Arab Emirates,"446,594","1,456",Asia
+Lebanon,"444,865","5,850",Asia
+Saudi Arabia,"386,300","6,624",Asia
+Slovakia,"352,528","9,261",Europe
+Panama,"351,667","6,060",North America
+Malaysia,"336,808","1,246",Asia
+Belarus,"313,852","2,184",Europe
+Ecuador,"313,570","16,504",South America
+Bulgaria,"312,741","12,307",Europe
+Georgia,"278,628","3,722",Asia
+Nepal,"276,389","3,020",Asia
+Bolivia,"266,086","12,093",South America
+Croatia,"260,636","5,828",Europe
+Dominican Republic,"250,177","3,283",North America
+Azerbaijan,"249,492","3,404",Asia
+Tunisia,"246,507","8,610",Africa
+Greece,"242,347","7,582",Europe
+Kazakhstan,"235,095","2,934",Asia
+Ireland,"231,484","4,610",Europe
+State of Palestine,"230,076","2,501",Asia
+Denmark,"227,894","2,405",Europe
+Kuwait,"221,743","1,246",Asia
+Moldova,"217,715","4,623",Europe
+Costa Rica,"213,438","2,908",North America
+Lithuania,"211,011","3,510",Europe
+Slovenia,"208,588","3,994",Europe
+Paraguay,"198,135","3,818",South America
+Egypt,"196,709","11,680",Africa
+Ethiopia,"190,594","2,693",Africa
+Guatemala,"189,067","6,730",North America
+Armenia,"186,184","3,398",Asia
+Honduras,"184,031","4,489",North America
+Qatar,"175,332",278,Asia
+Nigeria,"162,076","2,031",Africa
+Bosnia and Herzegovina,"156,346","6,005",Europe
+Libya,"154,320","2,582",Africa
+Oman,"153,105","1,644",Asia
+Venezuela,"152,508","1,511",South America
+Myanmar,"142,292","3,204",Asia
+Bahrain,"137,550",503,Asia
+Kenya,"123,167","2,048",Africa
+Albania,"121,847","2,156",Europe
+North Macedonia,"120,882","3,528",Europe
+Algeria,"116,349","3,066",Africa
+South Korea,"99,846","1,707",Asia
+Estonia,"99,008",823,Europe
+Latvia,"98,870","1,851",Europe
+Sri Lanka,"90,897",552,Asia
+China,"90,125","4,636",Asia
+Ghana,"89,893",734,Africa
+Norway,"89,120",656,Europe
+Montenegro,"88,116","1,220",Europe
+Kyrgyzstan,"87,652","1,492",Asia
+Zambia,"86,993","1,187",Africa
+Uruguay,"86,007",827,South America
+Uzbekistan,"81,678",623,Asia
+Finland,"73,516",809,Europe
+Cuba,"68,250",401,North America
+Mozambique,"66,496",750,Africa
+El Salvador,"63,766","1,990",North America
+Singapore,"60,236",30,Asia

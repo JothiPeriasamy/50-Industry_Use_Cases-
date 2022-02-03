@@ -1,0 +1,6 @@
+To predict the telecom customers who are likely to exit from the service ,finding the probability of customer churn and also finding the weightage of each factor so that the management can take appropriate decisions to control churn.
+
+Most telecom companies suffer from voluntary churn. Churn rate has strong impact on the company profitability because it affects the future revenue of the company .It is estimated that 75 percent of the 17 to 20 million subscribers 
+
+signing up with a new wireless carrier every year are coming from another wireless provider, which means they are churners.Hence reducing customer churn is the major concern of most telecom companies .
+

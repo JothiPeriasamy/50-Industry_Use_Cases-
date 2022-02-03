@@ -1,0 +1,2 @@
+The Purpose of this Implementation is to provide the users with adequate information regarding the Architectural
+components of Recurrent Neural Networks in any Industry usecase Implmentation.

@@ -1,0 +1,58 @@
+#  Date 	: 04/05/2021
+#  Version	: v1
+#  (C) 		: Deep Sphere, Inc.  
+#
+##############################
+
+
+##############################
+[Data Source]
+##############################
+DATA_SOURCE1= FILE
+DATA_SOURCE2= HDFS
+DATA_SOURCE3= SAP
+DATA_SOURCE4= ORACLE
+DATA_SOURCE5= MS
+
+##############################
+[Data Source Connection String]
+##############################
+
+SAP_CONNECTION_STRING=""
+HDFS_CONNECTION_STRING=""
+ORACLE_CONNECTION_STRING=""
+MS_CONNECTION_STRING=""
+
+##############################
+[FILE PATH]
+##############################
+
+TRAINING_DATA = /content/drive/MyDrive/Customer_Churn_Datasets/Customer_label.xlsx
+
+TRAINING_DATA_EXCEL_WORKSHEET = Customer_label
+
+TRAINING_DATA(CUS) = /content/drive/MyDrive/Customer_Churn_Datasets/Customer.xlsx
+
+TRAINING_DATA_EXCEL_WORKSHEET(CUS) = CUSTOMER
+
+TRAINING_DATA(CBP) = /content/drive/MyDrive/Customer_Churn_Datasets/customer_buying_pattern.xlsx
+
+TRAINING_DATA_EXCEL_WORKSHEET(CBP) = customer_buying_pattern
+
+TRAINING_DATA(CPP) = /content/drive/MyDrive/Customer_Churn_Datasets/Customer_Product_Price.xlsx
+
+TRAINING_DATA_EXCEL_WORKSHEET(CPP) = Customer_Product_Price
+
+TRAINING_DATA(CSP) = /content/drive/MyDrive/Customer_Churn_Datasets/Customer_Spending_Power.xlsx
+
+TRAINING_DATA_EXCEL_WORKSHEET(CSP) = Customer_Spending_Power
+
+TRAINING_DATA(CSQ) = /content/drive/MyDrive/Customer_Churn_Datasets/Customer_Service_Quality.xlsx
+
+TRAINING_DATA_EXCEL_WORKSHEET(CSQ) = Customer_Service_Quality
+
+TRAINING_DATA(CS) = /content/drive/MyDrive/Customer_Churn_Datasets/Customer_Satisfaction.xlsx
+
+TRAINING_DATA_EXCEL_WORKSHEET(CS) = Customer_Satisfaction
+
+#####################################################################

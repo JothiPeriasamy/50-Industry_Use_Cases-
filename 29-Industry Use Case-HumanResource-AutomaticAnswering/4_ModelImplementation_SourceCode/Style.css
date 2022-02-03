@@ -1,0 +1,132 @@
+.css-qbe2hs {
+    display: inline-flex;
+    align-items: center;
+    -moz-box-align: center;
+    -moz-box-pack: center;
+    justify-content: center;
+    font-weight: 600;
+    padding: 0.75rem 1rem;
+    border-radius: 0.25rem;
+    margin: 0px;
+    line-height: 1.6;
+    color: white;
+    width: auto;
+    background-color: green;
+    font-size: larger;
+    border: 1px solid rgba(38, 39, 48, 0.2);
+        border-top-color: rgba(38, 39, 48, 0.2);
+        border-right-color: rgba(38, 39, 48, 0.2);
+        border-bottom-color: rgba(38, 39, 48, 0.2);
+        border-left-color: rgba(38, 39, 48, 0.2);
+}
+
+.css-17eq0hr {
+background-color: #11118f;
+background-attachment: fixed;
+flex-shrink: 0;
+height: 100vh;
+overflow: auto;
+padding: 5rem 1rem;
+position: relative;
+transition: margin-left 300ms ease 0s, box-shadow 300ms ease 0s;
+width: 10rem;
+z-index: 100;
+margin-left: 0px;
+}
+p, ol, ul, dl {
+font-size: large;
+}
+.st-c8 {
+margin: 2px;
+}
+.st-bw{
+background-color: darkgray;
+}
+img {
+  position: absolute;
+  left: -250px;
+  top: -50px;
+  width: 175px;
+  height: 125px;
+  padding-top: 10px;
+}
+
+.css-qbe2hs:hover {
+      color: blue;
+}
+
+h1 {
+
+    font-size: 1.75rem;
+
+}
+
+.css-j2eyvp {
+    border: 2px solid rgba(38, 39, 48, 0.96);
+    border-radius: 0.25rem;
+    padding: calc(2em - 1px);
+    width: 698px;
+    margin: 0px 0px 1rem;
+}
+h1 {
+    font-family: IBM Plex Sans, sans-serif;
+    font-weight: 700;
+    color: rgb(38, 39, 48);
+    line-height: 3;
+}
+
+.css-8xv65a {
+
+    display: block;
+    color: rgba(38, 39, 48, 0.99);
+    flex: 0 1 0%;
+    font-size: 0.8rem;
+    max-width: 730px;
+    padding: 0.5rem 1rem;
+    width: 100%;
+
+}
+#root > div:nth-child(1) > div > div > div > div > section.main.css-1v3fvcr.eknhn3m1 > div > div:nth-child(1) > div.css-j2eyvp.epcbefy1 > div:nth-child(1) > div:nth-child(1) > div > label{
+    font-size: 2rem;
+    color: rgb(38, 39, 48);
+    margin-bottom: 1.5rem;
+    margin-left: 11.5rem;
+    height: 1.5rem;
+    vertical-align: middle;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.css-h9oeas {
+color: black;
+}
+.css-qbe2hs {
+margin: 4px;
+}
+
+a:link, a:visited {
+text-decoration: auto;
+}
+
+div.block-container:nth-child(2) > div:nth-child(1) > div:nth-child(1){
+    width: 75px;
+    font-size: 1rem;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 600;
+    line-height: 1.6;
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    color: black;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin: 0px 0px 1rem;
+    margin-bottom: 0px;
+    background-color: green;
+}
+
+
+
+

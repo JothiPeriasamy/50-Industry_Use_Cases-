@@ -1,0 +1,2 @@
+Problem Statement:
+	customer churn prediction using logistic regression and also by xgboost, comparing the accuracies of the result.

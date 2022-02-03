@@ -1,0 +1,2 @@
+Identify a best and fast performing Distributed Model Training method among Data Parallelism and Model Parallelism on RDD and Spark DF while checking the given sales data transcation is valid or not.
+   

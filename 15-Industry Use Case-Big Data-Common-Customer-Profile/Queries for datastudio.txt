@@ -1,0 +1,68 @@
+-- All 3 platform(without any platform filter-takes all 3)
+-- select count(customer_id) as count,created_time,platform_source FROM `vast-verve-292018.ds_ai.ds_ai_customised_kmeans_op`
+-- where  created_time is not null
+-- group by created_time,platform_source
+
+-- Any 2 platform
+-- select count(customer_id),created_time,platform_source FROM `vast-verve-292018.ds_ai.ds_ai_customised_kmeans_op`
+-- where twitter='yes' or image='yes' and youtube is null and created_time is not null
+-- group by created_time,platform_source
+
+-- select count(customer_id),created_time,platform_source FROM `vast-verve-292018.ds_ai.ds_ai_customised_kmeans_op`
+-- where image='yes' or youtube='yes' and platform_source!='twitter' and created_time is not null
+-- group by created_time,platform_source
+-- select count(customer_id),created_time,platform_source FROM `vast-verve-292018.ds_ai.ds_ai_customised_kmeans_op`
+-- where twitter='yes' or youtube='yes' and image is null and created_time is not null
+-- group by created_time,platform_source
+
+-- select * from 
+-- `vast-verve-292018.ds_ai.ds_ai_customised_kmeans_op`
+-- where twitter='yes' or youtube='yes' and image is null and created_time is not null
+--Any 1 platform
+-- select count(customer_id),created_time,platform_source FROM `vast-verve-292018.ds_ai.ds_ai_customised_kmeans_op`
+-- where twitter='yes' and image is null and youtube is null and created_time is not null
+-- group by created_time,platform_source;
+
+-- select count(customer_id),created_time,platform_source FROM `vast-verve-292018.ds_ai.ds_ai_customised_kmeans_op`
+-- where image='yes' and twitter is null and youtube is null and created_time is not null
+-- group by created_time,platform_source;
+
+-- select * FROM `vast-verve-292018.ds_ai.ds_ai_customised_kmeans_op` where platform_source='youtube'
+
+select count(customer_id),created_time,platform_source FROM `vast-verve-292018.ds_ai.ds_ai_customised_kmeans_op`
+where youtube='yes' and image is null and twitter is null and created_time is not null
+group by created_time,platform_source
+
+-- select * FROM `vast-verve-292018.dsa_ai.ds_ai_customised_kmeans_op` where platform_source='youtube';
+-- select SUBSTR(created_time,1,10),* from `vast-verve-292018.ds_ai.ds_ai_customised_kmeans_op`
+-- update `vast-verve-292018.ds_ai.ds_ai_customised_kmeans_op` set created_time = '2021-03-16' where created_time is null
+
+-- select *,
+-- case when twitter = 'yes' and image='yes'
+-- then 'yes' else null end as twitter_image,
+-- case when twitter = 'yes' and youtube='yes'
+-- then 'yes' else null end as twitter_youtube,
+-- case when youtube = 'yes' and image='yes'
+-- then 'yes' else null end as youtube_image,
+-- case when twitter = 'yes' and image='yes' and youtube='yes'
+-- then 'yes' else null end as twitter_image_youtube,
+-- FROM `vast-verve-292018.ds_ai.ds_ai_customised_kmeans_op`
+
+
+
+--Percentage of users across all platforms
+with total as
+    ( select count(customer_id) as cnt from `vast-verve-292018.ds_ai.ds_ai_customised_kmeans_op` )
+select platform_source,
+    (count(customer_id) / total.cnt)*100 as percentage
+from `vast-verve-292018.ds_ai.ds_ai_customised_kmeans_op`,
+    total group by platform_source,cnt
+    
+    
+--Percentage of users across all platforms by date level
+with total as
+    ( select count(customer_id) as cnt from `vast-verve-292018.ds_ai.ds_ai_customised_kmeans_op` )
+select platform_source,created_time,
+    (count(customer_id) / total.cnt)*100 as percentage
+from `vast-verve-292018.ds_ai.ds_ai_customised_kmeans_op`,
+    total group by created_time,platform_source,cnt

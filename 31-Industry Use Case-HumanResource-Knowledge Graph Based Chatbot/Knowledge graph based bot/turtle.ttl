@@ -1,0 +1,94 @@
+@prefix ex: <http://example.org/>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix wd: <http://www.wikidata.org/entity/>.
+@prefix db: <http://www.dbpedia.org/resource/>.
+@prefix schema: <http://schema.org/>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix el: <http://example.org/elements/>.
+
+ex:University
+    a rdfs:Class ;
+    rdfs:subClassOf foaf:Organization ;
+    rdfs:label "University"@en ;
+    rdfs:comment "Organization at which the students go to" .
+
+ex:Course
+    a rdfs:Class ;
+    rdfs:label "Course"@en ;
+    rdfs:comment "Course is offered at a university towards the granting of an approved degree" ;
+    foaf:name xsd:string ;
+    ex:hasSubject xsd:string ;
+    ex:hasNumber xsd:integer ;
+    ex:hasDescription xsd:string ;
+    rdfs:seeAlso xsd:anyURI ;
+    ex:hasTopic ex:Topic .
+
+ex:Topic
+    a rdfs:Class ;
+    rdfs:label "Topic"@en ;
+    rdfs:comment "Topic is part of a course material" ;
+    foaf:name xsd:string ;
+    rdfs:seeAlso xsd:anyURI .
+
+ex:Student
+    a rdfs:Class ;
+    rdfs:subClassOf foaf:person ;
+    rdfs:label "Student"@en ;
+    rdfs:comment "Person who studies at a university" ;
+    foaf:name xsd:string ;
+    ex:hasID xsd:integer ;
+    foaf:mbox xsd:string ;
+    ex:hasCompleted ex:Course .
+
+ex:hasSubject
+    a rdf:Property ;
+    rdfs:label "hasSubject"@en ;
+    rdfs:comment "Course has a subject" ;
+    rdfs:domain ex:Course ;
+    rdfs:range xsd:string .
+
+ex:hasNumber
+    a rdf:Property ;
+    rdfs:label "hasNumber"@en ;
+    rdfs:comment "Course has a number" ;
+    rdfs:domain ex:Course ;
+    rdfs:range xsd:integer .
+
+ex:hasDescription
+    a rdf:Property ;
+    rdfs:label "hasDescription"@en ;
+    rdfs:comment "Course has a description" ;
+    rdfs:domain ex:Course ;
+    rdfs:range xsd:string .
+
+ex:hasID
+    a rdf:Property ;
+    rdfs:label "hasID"@en ;
+    rdfs:comment "Student has an ID number" ;
+    rdfs:domain ex:Student ;
+    rdfs:range xsd:integer .
+
+ex:hasTopic
+    a rdf:Property ;
+    rdfs:label "hasTopic"@en ;
+    rdfs:comment "Course has a topic" ;
+    rdfs:domain ex:Course ;
+    rdfs:range ex:Topic .
+
+ex:hasCompleted
+    a rdf:Property ;
+    rdfs:label "hasCompleted"@en ;
+    rdfs:comment "Student has completed a course" ;
+    rdfs:domain ex:Student ;
+    rdfs:range ex:Course .
+
+ex:hasGrade
+    a rdf:Property ;
+    rdfs:subPropertyOf ex:hasCompleted ;
+    rdfs:label "hasGrade"@en ;
+    rdfs:comment "Student has a grade for a completed course" ;
+    rdfs:domain ex:hasCompleted ;
+    rdfs:range xsd:string .

@@ -1,0 +1,5 @@
+Transcribing the conversation between a physician and a patient from a voice-based input into text - voice to text
+
+Extract the hidden insights on the text such as patient symptoms and warning signs of depression
+
+Perform in-depth analysis and research on the text and present the analysis outcome in the form of data visualization

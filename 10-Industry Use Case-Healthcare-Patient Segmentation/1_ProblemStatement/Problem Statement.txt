@@ -1,0 +1,4 @@
+The ambition of Patient Segmentation is to divide the patients into mutually exclusive, homogeneous groups based on their similar needs like Health Conditions, Age, Gender, and Ethnicity, and so on.
+First, identifying or verifying one or more Patients using a stored database of faces.
+broadly classifying Patients based on Gender, Ethnicity, Race, and different type of Disease conditions.
+Visualizing Each type of distribution and disease using Graphs.

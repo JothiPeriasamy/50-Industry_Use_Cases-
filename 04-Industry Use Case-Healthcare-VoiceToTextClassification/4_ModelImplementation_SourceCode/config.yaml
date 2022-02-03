@@ -1,0 +1,2 @@
+text_file: /home/jupyter/DeepsphereProjects/Healthcare/VoiceToTextClassification/2_DataSet/hospital.txt
+symptoms_path: DeepsphereProjects/Healthcare/MedicalTranscription/2_DataSet/symptoms.txt

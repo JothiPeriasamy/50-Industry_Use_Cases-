@@ -1,0 +1,19 @@
+
+Problem Statement - 1
+
+1. Identify whether the given transaction is an intercompany transaction or not 
+
+____________________________________________________________________________________
+
+Problem Statement - 2
+
+2. Determine the completeness and the accuracy of a financial transaction 
+
+____________________________________________________________________________________
+
+Problem Statement - 3
+
+3. Pair AP (accounts payable) transactions with it’s corresponding AR (accounts receivable) transactions 
+
+____________________________________________________________________________________
+

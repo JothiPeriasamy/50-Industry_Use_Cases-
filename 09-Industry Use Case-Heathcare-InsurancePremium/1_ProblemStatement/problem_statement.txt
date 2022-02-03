@@ -1,0 +1,1 @@
+Use simple supervised machine learning model (ex: Linear Regression) to predict induvial members health insurance quote.
