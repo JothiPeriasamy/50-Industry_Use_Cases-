@@ -1,0 +1,2 @@
+The goal of Patient Segmentation is to seggregate patients into mutually exclusive using a stored database of faces.
+broadly classifying Patients based on Age, Gender and Ethnicity. Visualizing Each type of distribution and disease using pie charts.
