@@ -1,4 +1,4 @@
 The project-'Patient Segmentation' aims to categorise patients into mutually exclusive, homogeneous groups based on
  their similar Health Conditions, Age, Gender, and Ethnicity. The first step towards the goal is to identify the 
 Patients using a stored database of faces and visualise each type of distribution and disease using Graphs. 
-Finally, broadly classifying the Patients based on thier Gender, Ethnicity and age group. 
+Finally, broadly classifying the Patients based on their Gender, Ethnicity and age group. 
