@@ -1,0 +1,42 @@
+Human Resource - Automatic Question Generation,HR,001,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/01-Industry%20Use%20Case-HumanResource-AutomaticQuestionGeneration
+Human Resource - Automatic Text Generation,HR,002,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/02-Industry%20Use%20Case-HumanResource-Automatic%20Text%20Generation
+Consumer - Data Engineering Framework - Data labeling,C,003,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/03-Industry%20Use%20Case-Consumer-DataEngineering%20Framework-Datalabeling
+Healthcare - VoiceToTextClassification,HC,004,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/04-Industry%20Use%20Case-Healthcare-VoiceToTextClassification
+Retail - Distributed Model Training,R,005,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/05-Industry%20Use%20Case-Retail-Distributed%20Model%20Training
+Education - Student Grade Prediction,ED,006,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/06-Industry%20Use%20Case-Education-Student%20Grade%20Prediction
+Telecom - Customer Churn,CU,007,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/07-Industry%20Use%20Case-Telecom-Customer%20Churn
+Healthcare - Patient Non - Adherence,HC,008,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/08-Industry%20Use%20Case-Healthcare-Patient%20Non-Adherence
+Healthcare - Insurance Premium,HC,009,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/09-Industry%20Use%20Case-Heathcare-InsurancePremium
+Healthcare - Patient Segmentation,HC,010,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/10-Industry%20Use%20Case-Healthcare-Patient%20Segmentation
+Healthcare - Claim Detection,HC,11,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/11-Industry%20Use%20Case-Healthcare-ClaimDetection
+Customer Churn - Feature Tools,CU,012,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/12-Industry%20Use%20Case-Customer%20Churn-FeatureTools
+Retail - XGBoost Customer Churn Prediction,R,013,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/13-Industry%20Use%20Case-Retail-XGBoost_CustomerChurnPrediction
+Human Resource - Skillmatrix - Resume Ranking - GCP,HR,014,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/14-Industry%20Use%20Case-Human%20Resource-Skillmatrix-Resume%20Ranking-GCP
+Big Data - Common - Customer - Profile,CU,015,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/15-Industry%20Use%20Case-Big%20Data-Common-Customer-Profile
+Human Resource - AutoQuestGen,HR,016,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/16-Industry%20Use%20Case-Human%20Resource-AutoQuestGen
+ResumeRakingModel(SkillMatrix),HR,017,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/17-Industry%20Use%20Case-ResumeRakingModel(SkillMatrix)
+Retail - Deep Learning Architectural Components,R,018,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/18-Industry%20Use%20Case-Retail-Deep%20Learning%20Architectural%20Components
+Financial Services - Intercompany Transaction,F,019,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/19-Industry%20Use%20Case-Financial%20Services-Intercompany%20Transaction
+Financial Services - Lease Accounting,F,020,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/20-Industry%20Use%20Case-Financial%20Services-Lease%20Accounting
+Automobile - Hand Written Digits,AM,021,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/21-Industry%20Use%20Case-Automobile-Hand%20Written%20Digits
+Consumer - Facial Reognition,C,022,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/22-Industry%20Use%20Case-Consumer-Facial%20Reognition
+Consumer - Gender Detection,C,023,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/23-Industry%20Use%20Case-Consumer-Gender%20Detection
+Retail - Time Series Forecasting,R,024,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/24-Industry%20Use%20Case-Retail-Time%20Series%20Forecasting
+Energy - Demand Forecasting,EN,025,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/25-Industry%20Use%20Case-Energy-Demand%20Forecasting
+Retail - Chatbot keras,R,026,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/26-Industry%20Use%20Case-Retail-Chatbot_keras
+Retail - Distributed Training,R,027,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/27-Indystry%20Use%20Case-Retail-Distributed%20Training
+Retail - Content_Creation,R,028,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/28-Industry%20Use%20Case-Retail-Content_Creation
+HumanResource - AutomaticAnswering,HR,029,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/29-Industry%20Use%20Case-HumanResource-AutomaticAnswering
+HumanResource - VoiceChatbot,HR,030,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/30-Industry%20Use%20Case-HumanResource-VoiceChatbot
+HumanResource - Knowledge Graph Based Chatbot,HR,031,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/31-Industry%20Use%20Case-HumanResource-Knowledge%20Graph%20Based%20Chatbot
+Entertainment - Snake Game,ENT,032,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/32-Industry%20Use%20Case-Entertainment-Snake%20Game
+Energy Demand Forcasting/Energy - Demand Forecasting,EN,033,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/33-Industry%20Use%20Case-Energy%20Demand%20Forcasting/Energy-Demand%20Forecasting
+Sentimental Analysis - Hospital Feedback,HC,034,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/36-Industry%20Use%20Case-Sentimental%20Analysis-Hospital%20Feedback
+Real - time - video - analysis - main,VA,035,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/37-Industry%20Use%20Case-%20Real-time-video-analysis-main
+Face Generation GAN,FG,036,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/38-Industry%20Use%20Case-Face%20Generation%20GAN
+Airline - Demand Forecasting,AL,037,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/39-Industry%20Use%20Case-Airline-Demand%20Forecasting
+Data Visualization,DV,038,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/40-Data%20Visualization
+Stationarity Analysis,STA,039,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/41-Industry%20Use%20Case-Stationarity%20Analysis
+personlized information Extraction,PIE,040,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/42%20-personlized%20information%20Extraction
+patient - classification,HC,041,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/44-Industry%20Use%20Case-patient-classification
+XGBoost,HC,042,https://github.com/Deepsphere-AI/IndustryUseCases/tree/master/XGBoost
