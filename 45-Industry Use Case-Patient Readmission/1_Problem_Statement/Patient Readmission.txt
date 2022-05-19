@@ -1,0 +1,6 @@
+
+Predict if a patient with certain disease condition will be readmitted to the hospital within 30 days or not.
+
+Readmission of patients without proper planning can cause the healthcare providers a great deal. 
+Predicting if the patient is going to be readmitted in the next 30 or 60 days helps the hospitals target their efforts 
+and reduce the risk of readmission.
